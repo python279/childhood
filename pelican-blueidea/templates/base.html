@@ -31,7 +31,7 @@
                 {% for pg in PAGES | sort(attribute=PAGES_SORT_ATTRIBUTE) %}
                     {% if 'http://' in pg.url -%}
                         <li><a href="{{ pg.url }}">{{ pg.title }}</a></li>
-                    {% else %}    
+                    {% else %}
                         <li{% if pg == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a></li>
                     {% endif %}
                 {% endfor %}
@@ -91,7 +91,7 @@
         </section><!-- /#extras -->
 
         <footer id="contentinfo" class="body">
-                <p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme <a href="https://github.com/blueicefield/pelican-blueidea/">blueidea</a>, inspired by the default theme.</p>
+                <p>冬冬 多多 龙宝 马宝 顺顺 小弟</p>
         </footer><!-- /#contentinfo -->
 
 {% include 'analytics.html' %}
