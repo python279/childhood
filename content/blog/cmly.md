@@ -105,7 +105,7 @@ Date: 2016-05-01
 ![Photo]({attach}images/cmly/cmly12.jpg)
 
 
-这俩玩累了，先睡一会儿。
+玩累了，先睡一会儿。
 
 ![Photo]({attach}images/cmly/cmly13.jpg)
 
